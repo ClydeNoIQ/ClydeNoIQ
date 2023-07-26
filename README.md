@@ -12,11 +12,10 @@ Hello 👋 I'm Clyde, a Filipino programmer. I like to do PMMP (PHP) plugins & D
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClydeplayzYT590&show_icons=true&hide_border=true&theme=algolia&count_private=true)](https://github.com/ClydeplayzYT590)
 
 ### 📞 Contact
-| Redes | Tag | Link |
+| Contact | Tag | Link |
 |-------|-------------|------|
 | YouTube | ClydeNoIQ | [YouTube](https://youtube.com/@ClydeNoIQ) | 
 | Discord | clyvenoiq | [Discord](https://discord.gg/ga6VJQgBU5) |
-| GitHub | ClydeplayzYT590 | [GitHub](https://github.com/ClydeplayzYT590)
 | Poggit | ClydeplayzYT590 | [Poggit](https://poggit.pmmp.io/ci/ClydeplayzYT590)
 ****
 <!--
