@@ -1,5 +1,5 @@
 # ClydeNoIQ
-Hello 👋 I'm Clyde, a Filipino programmer. I like to do PMMP (PHP) plugins & Discord Bots written in JavaScript
+Hello 👋 I'm Clyde, a Filipino programmer (partly a Software Engineer). I work for @ [MixedMC Games](https://github.com/MixedMC)
 
 <h3 align="left">Languages:</h3>
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <a href="https://www.javascript.com" target="-blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/>
