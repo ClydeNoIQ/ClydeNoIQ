@@ -15,7 +15,7 @@ Hello 👋 I'm Clyde, a Filipino programmer (partly a Software Engineer). I work
 | Platform | Tag | Link |
 |-------|-------------|------|
 | YouTube | ClydeNoIQ | [YouTube](https://youtube.com/@ClydeNoIQ) | 
-| Discord | clyvenoiq | [Discord](https://discord.gg/ga6VJQgBU5) |
+| Discord | clyvenoiq | [Discord](https://dsc.gg/MixedMC) |
 | Poggit | ClydeplayzYT590 | [Poggit](https://poggit.pmmp.io/ci/ClydeplayzYT590)
 ****
 <!--
