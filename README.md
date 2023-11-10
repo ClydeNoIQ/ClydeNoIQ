@@ -11,6 +11,10 @@ Hello 👋 I'm Clyde, a Filipino programmer (partly a Software Engineer). I work
 ![ClydeNoIQ's github stats](https://github-readme-stats.vercel.app/api/?username=ClydeplayzYT590&show_icons=true&hide_border=true&theme=algolia&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClydeplayzYT590&show_icons=true&hide_border=true&theme=algolia&count_private=true)](https://github.com/ClydeplayzYT590)
 
+### Spotify Status
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cget5f6fyxajgoodyl4iymhdjy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 ### 📞 Contact
 | Platform | Tag | Link |
 |-------|-------------|------|
