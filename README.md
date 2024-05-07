@@ -12,7 +12,7 @@ Hello 👋 I'm Clyde, a Filipino programmer (partially a Software Engineer). I w
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,ts,java,css,html,kubernetes,grafana,vscode,redis&perline=7" />
+    <img src="https://skillicons.dev/icons?i=php,js,ts,java,css,html,kubernetes,grafana,redis,vscode,phpstorm&perline=7" />
   </a>
 </p>
 
