@@ -12,9 +12,9 @@ Hello 👋 I'm Clyde, a Filipino programmer (partially a Software Engineer). I w
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,ts,nodejs,grafana,jenkins,mongodb,maven" />
+    <img src="https://skillicons.dev/icons?i=php,js,ts,java,kubernetes,grafana,vscode,redis" />
   </a>
 </p>
 
-![ClydeplayzYT590's Stats](https://github-readme-stats.vercel.app/api?username=ClydeplayzYT590&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![ClydeNoIQ's Stats](https://github-readme-stats.vercel.app/api?username=ClydeNoIQ&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 <!--
