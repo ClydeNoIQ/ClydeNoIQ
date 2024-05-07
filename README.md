@@ -1,5 +1,5 @@
 # ClydeNoIQ
-Hello 👋 I'm Clyde, a Filipino programmer (partially a Software Engineer). I work for @ [MixedMC Games](https://github.com/MixedMC)
+Hello 👋 I'm Clyde, a Filipino programmer. I work for @ [MixedMC Games](https://github.com/MixedMC)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
