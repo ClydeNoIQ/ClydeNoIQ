@@ -1,5 +1,5 @@
 # ClydeNoIQ
-Hello 👋 I'm Clyde, a Filipino programmer. I work for @ [Blitz Games](https://github.com/PlayBlitzGg)
+Hello 👋 I'm Clyde, a Filipino programmer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,7 +12,7 @@ Hello 👋 I'm Clyde, a Filipino programmer. I work for @ [Blitz Games](https://
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,ts,java,css,html,kubernetes,grafana,redis,vscode,phpstorm&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,js,kotlin,redis,vscode,idea&perline=7" />
   </a>
 </p>
 
