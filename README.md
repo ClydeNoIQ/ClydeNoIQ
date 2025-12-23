@@ -12,9 +12,7 @@ Hello 👋 I'm Clyde, a Filipino programmer.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,kotlin,redis,vscode,idea&perline=7" />
+    <img src="https://skillicons.dev/icons?i=php,java,js,go,vscode,idea&perline=7" />
   </a>
 </p>
-
-![ClydeNoIQ's Stats](https://github-readme-stats.vercel.app/api?username=ClydeNoIQ&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 <!--
